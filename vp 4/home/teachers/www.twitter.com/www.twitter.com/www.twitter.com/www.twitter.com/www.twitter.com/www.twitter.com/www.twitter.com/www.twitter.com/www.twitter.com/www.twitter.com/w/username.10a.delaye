@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+<!-- Mirrored from ramomcoder.com/v4/home/teachers/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/username by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Jun 2021 06:24:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="keyword" content="Ramom  Teachers Page">
+		<meta name="description" content="Ramom - School Management System With CMS">
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="../../../../../../../../../../../../../uploads/frontend/images/fav_icon1.png">
+		<title>Teachers - Icon School Management System With CMS</title>
+		<!-- Bootstrap -->
+		<link href="../../../../../../../../../../../../../assets/frontend/css/bootstrap.min.css" rel="stylesheet">
+		<!-- Template CSS Files  -->
+		<link rel="stylesheet" href="../../../../../../../../../../../../../assets/vendor/font-awesome/css/all.min.css">
+		<link rel="stylesheet" href="../../../../../../../../../../../../../assets/frontend/plugins/animate.min.css">
+		<link rel="stylesheet" href="../../../../../../../../../../../../../assets/frontend/css/responsive.css">
+		<link rel="stylesheet" href="../../../../../../../../../../../../../assets/frontend/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="../../../../../../../../../../../../../assets/vendor/select2/css/select2.min.css">
+		<link rel="stylesheet" href="../../../../../../../../../../../../../assets/vendor/sweetalert/sweetalert-custom.css">
+		<link rel="stylesheet" href="../../../../../../../../../../../../../assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css">
+		<link rel="stylesheet" href="../../../../../../../../../../../../../assets/frontend/plugins/magnific-popup/magnific-popup.css">
+			<link rel="stylesheet" href="../../../../../../../../../../../../../assets/frontend/css/style_red.css">
+			<script src="../../../../../../../../../../../../../assets/vendor/jquery/jquery.min.js"></script>
+		<!-- If user have enabled CSRF proctection this function will take care of the ajax requests and append custom header for CSRF -->
+		<script type="text/javascript">
+			var base_url = "../../../../../../../../../../../../../index.html";
+			var csrfData = {"school_csrf_name":"ca81868ae0f461252ce34be96378627d"};
+			$(function($) {
+				$.ajaxSetup({
+					data: csrfData
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<!-- Preloader -->
+		<div class="loader-container">
+			<div class="lds-dual-ring"></div>
+		</div>
+		
+<!-- Header Starts -->
+	<header class="main-header">
+	<!-- Nested Container Starts -->
+	<!-- Top Bar Starts -->
+		<div class="top-bar d-none d-md-block">
+			<div class="container px-md-0">
+			<div class="row">
+				<div class="col-md-6 col-sm-12"><span>Hours : </span>  Mon To Fri - 10AM - 04PM,  Sunday Closed</div>
+				<div class="col-md-6 col-sm-12">
+					<ul class="list-unstyled list-inline">
+						<li class="list-inline-item"><a href="mailto:info@demo.com">
+							<i class="far fa-envelope"></i> info@demo.com						</a></li>
+						<li class="list-inline-item"><i class="fas fa-phone-volume"></i> +1-954-648-1802</li>
+											<li class="list-inline-item"><a href="../../../../../../../../../../../../../authentication/index/iconschool.html" target="_blank"><i class="fas fa-user-lock"></i> Login</a></li>
+										</ul>
+				</div>
+			</div>
+			</div>
+		</div>
+	<!-- Top Bar Ends -->
+	<!-- Navbar Starts -->
+		<div class="stricky" id="strickyMenu">
+			<div class="container px-md-0">
+			<nav id="nav" class="navbar navbar-expand-lg" role="navigation">
+				<div class="container px-md-0">
+				<!-- Logo Starts -->
+					<a href="#" class="navbar-brand">
+						<img src="../../../../../../../../../../../../../uploads/frontend/images/logo1.png" alt="Logo">
+					</a>
+				<!-- Logo Ends -->
+				<!-- Collapse Button Starts -->
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon fa fa-bars"></span>
+					</button>
+				<!-- Collapse Button Ends -->
+				<!-- Navbar Collapse Starts -->
+					<div id="mainNav" class="navbar-collapse collapse">
+						<ul class="nav navbar-nav ml-auto navbar-style3">
+															<li class="nav-item">
+									<a href="../../../../../../../../../../../../index/username.html" class="nav-link" >Home  </a>
+																	</li>
+															<li class="nav-item">
+									<a href="../../../../../../../../../../../username.html" class="nav-link" >Teachers  </a>
+																	</li>
+															<li class="nav-item">
+									<a href="../../../../../../../../../../../../events/username.html" class="nav-link" >Events  </a>
+																	</li>
+															<li class="nav-item">
+									<a href="../../../../../../../../../../../../about/username.html" class="nav-link" >About Us  </a>
+																	</li>
+															<li class="nav-item">
+									<a href="../../../../../../../../../../../../faq/username.html" class="nav-link" >FAQ  </a>
+																	</li>
+															<li class="nav-item">
+									<a href="../../../../../../../../../../../../admission/username.html" class="nav-link" >Online Admission  </a>
+																	</li>
+															<li class="nav-item">
+									<a href="../../../../../../../../../../../../gallery/username.html" class="nav-link" >Gallery  </a>
+																	</li>
+															<li class="nav-item dropdown">
+									<a href="#" class="nav-link" >Pages<span class="arrow"></span>  </a>
+																		<ul class="dropdown-menu" role="menu">
+																				<a class="dropdown-item"  href="../../../../../../../../../../../../admit_card/username.html">Admit Card</a>
+																				<a class="dropdown-item"  href="../../../../../../../../../../../../exam_results/username.html">Exam Results</a>
+																				<a class="dropdown-item"  href="../../../../../../../../../../../../certificates/username.html">Certificates</a>
+																			</ul>
+																</li>
+															<li class="nav-item">
+									<a href="../../../../../../../../../../../../contact/username.html" class="nav-link" >Contact Us  </a>
+																	</li>
+														<li class="nav-item m-login">
+															<a href="../../../../../../../../../../../../../authentication/index/iconschool.html" target="_blank" class="btn btn-block btn-black mt-sm">Login</a>
+														</li>
+						</ul>
+					</div>
+				<!-- Navbar Collapse Ends -->
+				</div>
+			</nav>
+		</div>
+	</div>
+	<!-- Navbar Ends -->
+<!-- Nested Container Ends -->
+</header>
+<!-- Header Ends -->		<!-- Main Banner Starts -->
+<div class="main-banner" style="background: url(../../../../../../../../../../../../../uploads/frontend/banners/teachers1.jpg) center top;">
+    <div class="container px-md-0">
+        <h2><span>Teachers</span></h2>
+    </div>
+</div>
+<!-- Main Banner Ends -->
+<!-- Breadcrumb Starts -->
+<div class="breadcrumb">
+    <div class="container px-md-0">
+        <ul class="list-unstyled list-inline">
+            <li class="list-inline-item"><a href="../../../../../../../../../../../../../home.html">Home</a></li>
+            <li class="list-inline-item active">Teachers</li>
+        </ul>
+    </div>
+</div>
+<!-- Breadcrumb Ends -->
+<!-- Main Container Starts -->
+<div class="container px-md-0 main-container">
+    <!-- Doctors Desigination Filters Starts -->
+    <ul id="doctors-filter" class="list-unstyled list-inline">
+        <li class="list-inline-item"><a href="#" class="active" data-group="all">All Departments</a></li>
+                <li class="list-inline-item"><a href="#" data-group="1">Science</a></li>
+                <li class="list-inline-item"><a href="#" data-group="3">General</a></li>
+            </ul>
+    <!-- Doctors Desigination Filters Ends -->
+    <!-- Doctors Bio List Starts -->
+    <ul id="doctors-grid" class="row grid">
+                <li class="col-lg-3 col-md-6 col-sm-12 doctors-grid" data-groups='["all", "1"]'>
+            <div class="bio-box">
+                <div class="profile-img">
+                    <div class="dlab-border-left"></div>
+                    <div class="dlab-border-right"></div>
+                    <div class="dlab-media">
+                        <img src="../../../../../../../../../../../../../uploads/images/staff/d7342415bed40b2bece8dc5775cb35d1.jpg" alt="Doctor" class="img-fluid img-center-sm img-center-xs">
+                    </div>
+                    <div class="overlay">
+                        <div class="overlay-txt">
+                            <ul class="list-unstyled list-inline sm-links">
+                                <li class="list-inline-item">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="txt-holder txt-overflow">
+                    <h5>Summer Simpson</h5>
+                    <p class="designation">Science</p>
+                </div>
+            </div> 
+        </li>
+                <li class="col-lg-3 col-md-6 col-sm-12 doctors-grid" data-groups='["all", "3"]'>
+            <div class="bio-box">
+                <div class="profile-img">
+                    <div class="dlab-border-left"></div>
+                    <div class="dlab-border-right"></div>
+                    <div class="dlab-media">
+                        <img src="../../../../../../../../../../../../../uploads/images/staff/6b9a27fca0f377b3f1b445061ee7747f.jpg" alt="Doctor" class="img-fluid img-center-sm img-center-xs">
+                    </div>
+                    <div class="overlay">
+                        <div class="overlay-txt">
+                            <ul class="list-unstyled list-inline sm-links">
+                                <li class="list-inline-item">
+                                    <a href="https://www.facebook.com/username"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="https://www.linkedin.com/username"><i class="fab fa-linkedin-in"></i></a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="username.10c.delaye"><i class="fab fa-twitter"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="txt-holder txt-overflow">
+                    <h5>Jose  McKinley</h5>
+                    <p class="designation">General</p>
+                </div>
+            </div> 
+        </li>
+                <li class="col-lg-3 col-md-6 col-sm-12 doctors-grid" data-groups='["all", "1"]'>
+            <div class="bio-box">
+                <div class="profile-img">
+                    <div class="dlab-border-left"></div>
+                    <div class="dlab-border-right"></div>
+                    <div class="dlab-media">
+                        <img src="../../../../../../../../../../../../../uploads/images/staff/21418a118dc76dd8085e6ec006528a1d.jpg" alt="Doctor" class="img-fluid img-center-sm img-center-xs">
+                    </div>
+                    <div class="overlay">
+                        <div class="overlay-txt">
+                            <ul class="list-unstyled list-inline sm-links">
+                                <li class="list-inline-item">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="txt-holder txt-overflow">
+                    <h5>Nannie Henriques</h5>
+                    <p class="designation">Science</p>
+                </div>
+            </div> 
+        </li>
+                <li class="col-lg-3 col-md-6 col-sm-12 doctors-grid" data-groups='["all", "1"]'>
+            <div class="bio-box">
+                <div class="profile-img">
+                    <div class="dlab-border-left"></div>
+                    <div class="dlab-border-right"></div>
+                    <div class="dlab-media">
+                        <img src="../../../../../../../../../../../../../uploads/images/staff/d5db24ec79e464a9708d9a941f254f41.jpg" alt="Doctor" class="img-fluid img-center-sm img-center-xs">
+                    </div>
+                    <div class="overlay">
+                        <div class="overlay-txt">
+                            <ul class="list-unstyled list-inline sm-links">
+                                <li class="list-inline-item">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="txt-holder txt-overflow">
+                    <h5>Tamica Halcomb</h5>
+                    <p class="designation">Science</p>
+                </div>
+            </div> 
+        </li>
+            </ul>
+    <!-- Doctors List Ends -->
+</div>
+<!-- Main Container Ends -->		<!-- Footer Starts -->
+<footer class="main-footer">
+    <div class="footer-area" style="background: #383838 url(../../../../../../../../../../../../../assets/frontend/images/07.png);">
+        <div class="container px-md-0">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="footer-logo">
+                        <img src="../../../../../../../../../../../../../uploads/frontend/images/logo1.png" alt="Logo">
+                    </div>
+                    <div class="footer-select">
+                        <div class="form-group">
+                            <select name="branch_id" class='form-control' id='activateSchool'
+                                data-plugin-selectTwo data-minimum-results-for-search='Infinity'>
+<option value="1" selected="selected">Icon School & College</option>
+<option value="2">Oxford International School</option>
+</select>
+                        </div>
+                    </div>
+                    <p class="footer-dec">If you are going to use a passage LorIsum, you anythirassing hidden in the middle of text. Lators on the Internet tend to.</p>
+                    <ul class="social">
+                                            <li><a href="https://facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="https://youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                                            <li><a href="https://google.com/" target="_blank"><i class="fab fa-google-plus-g"></i></a></li>
+                                            <li><a href="https://linkedin.com/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                            <li><a href="https://pinterest.com/" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
+                                        </ul>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <h4>Address</h4>
+                    <ul class="list-unstyled address-list">
+                        <li class="clearfix address">
+                            <i class="fas fa-map-marker-alt"></i> 3470  Geraldine Lane, New York                        </li>
+                        <li class="clearfix">
+                            <i class="fas fa-phone"></i> +1-954-648-1802                        </li>
+                        <li class="clearfix">
+                            <i class="fas fa-fax"></i></i> 001 - 785 987 1234                        </li>
+                        <li class="clearfix">
+                            <i class="fas fa-envelope"></i> <a href="mailto:info@demo.com">info@demo.com</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <h4>Quick Links</h4>
+                    <ul class="list-unstyled quick-links">
+                                                <li><a href="../../../../../../../../../../../../index/username.html"><i class="fa fa-angle-right"></i> Home</a></li>
+                                                <li><a href="../../../../../../../../../../../username.html"><i class="fa fa-angle-right"></i> Teachers</a></li>
+                                                <li><a href="../../../../../../../../../../../../events/username.html"><i class="fa fa-angle-right"></i> Events</a></li>
+                                                <li><a href="../../../../../../../../../../../../about/username.html"><i class="fa fa-angle-right"></i> About Us</a></li>
+                                                <li><a href="../../../../../../../../../../../../faq/username.html"><i class="fa fa-angle-right"></i> FAQ</a></li>
+                                                <li><a href="../../../../../../../../../../../../admission/username.html"><i class="fa fa-angle-right"></i> Online Admission</a></li>
+                                                <li><a href="../../../../../../../../../../../../gallery/username.html"><i class="fa fa-angle-right"></i> Gallery</a></li>
+                                                <li><a href="#"><i class="fa fa-angle-right"></i> Pages</a></li>
+                                                <li><a href="../../../../../../../../../../../../admit_card/username.html"><i class="fa fa-angle-right"></i> Admit Card</a></li>
+                                                <li><a href="../../../../../../../../../../../../exam_results/username.html"><i class="fa fa-angle-right"></i> Exam Results</a></li>
+                                                <li><a href="../../../../../../../../../../../../certificates/username.html"><i class="fa fa-angle-right"></i> Certificates</a></li>
+                                                <li><a href="../../../../../../../../../../../../contact/username.html"><i class="fa fa-angle-right"></i> Contact Us</a></li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="container px-md-0 clearfix text-center">
+            Copyright &copy; 2020 <span>Ramom</span>. All Rights Reserved.        </div>
+    </div>
+    <!-- Copyright Ends -->
+</footer>
+<!-- Footer Ends -->
+
+<a href="#" class="back-to-top"><i class="far fa-arrow-alt-circle-up"></i></a>
+<!-- JS Files -->
+<script src="../../../../../../../../../../../../../assets/frontend/js/bootstrap.min.js"></script>
+<script src="../../../../../../../../../../../../../assets/frontend/js/owl.carousel.min.js"></script>
+<script src="../../../../../../../../../../../../../assets/frontend/plugins/shuffle/jquery.shuffle.modernizr.min.js"></script>
+<script src="../../../../../../../../../../../../../assets/vendor/select2/js/select2.full.min.js"></script>
+<script src="../../../../../../../../../../../../../assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+<script src="../../../../../../../../../../../../../assets/vendor/sweetalert/sweetalert.min.js"></script>
+<script src="../../../../../../../../../../../../../assets/frontend/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="../../../../../../../../../../../../../assets/frontend/js/custom.js"></script>
+
+	</body>
+
+<!-- Mirrored from ramomcoder.com/v4/home/teachers/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/www.twitter.com/username by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Jun 2021 06:24:47 GMT -->
+</html>
